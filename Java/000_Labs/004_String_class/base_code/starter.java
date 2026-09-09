@@ -7,13 +7,12 @@ import java.util.Scanner;
 
 class starter {
 	public static void main(String args[]) {
-		String fred=new String("Happy Birthday, ");
-		String summer=new String("to you.");
-		String bread=new String("Happy Birthday ");
-		String yellow=new String("dear proper name of somebody in the class,");
-		System.out.println(fred+summer);
-		System.out.println(fred+summer);
-		System.out.println(bread+yellow);
-		System.out.println(fred+summer);
+		String Julian=("Happy Birthday, ");
+		String Seo=("to you.");
+		String Hello=("Happy Birthdya dear proper name of somebody in the class,");
+		System.out.println(Julian+Seo);
+		System.out.println(Julian+Seo);
+		System.out.println(Hello);
+		System.out.println(Julian+Seo);
 	}
 }
