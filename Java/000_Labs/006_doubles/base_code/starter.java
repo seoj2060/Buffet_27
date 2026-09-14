@@ -1,6 +1,6 @@
 /*
- *	Author:  
- *  Date: 
+ *	Author: Julian Seo  
+ *  Date: 09/09/26
 */
 
 import java.util.Scanner;
