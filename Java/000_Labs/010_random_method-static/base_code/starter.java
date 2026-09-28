@@ -8,6 +8,15 @@ import java.util.Random;
 
 class starter {
 	public static void main(String args[]) {
-		System.out.print("Enter 2 numbers to create a range for your random number"); 
+	
+	System.out.print("An integer between 0 and 9 inclusive of both: ");
+	System.out.println((int)(Math.random() * 10));
+	System.out.print("An integer between 0 - 100 inclusive of both: ");
+	System.out.println((int)(Math.random() * 101));
+	System.out.print("A double between 2.5 and 3.5 inclusive of 2.5: ");
+	System.out.println((double)(Math.random() + 2.5));
+	System.out.print("A double between 14 and 589 inclusive of 14: ");
+	System.out.println((double)(Math.random() * 575 + 14));
+
 	}
 }
