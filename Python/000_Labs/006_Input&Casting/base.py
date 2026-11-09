@@ -1,0 +1,6 @@
+print("")
+first = int(input("Please enter the first number: "))
+second = int(input("Please enter the second number: "))
+print("")
+print(str(first) + " * " + str(second) + " = " + str(first * second))
+print("")
